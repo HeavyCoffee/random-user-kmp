@@ -19,7 +19,6 @@ class KmpDiConventionPlugin : Plugin<Project> {
                 implementation(libs.findLibrary("koin-core").get())
                 implementation(libs.findLibrary("koin-compose").get())
                 implementation(libs.findLibrary("koin-compose-viewmodel").get())
-//                implementation(libs.findLibrary("koin-compose-navigation3").get())
             }
             sourceSets.androidMain.dependencies {
                 implementation(project.dependencies.platform(libs.findLibrary("koin-bom").get()))
