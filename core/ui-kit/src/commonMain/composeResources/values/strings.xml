@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Common -->
+    <string name="general_error">Something went wrong</string>
+
+<!-- New user screen -->
+    <string name="new_user_title">Generate user</string>
+    <string name="new_user_gender_hint">Select Gender</string>
+    <string name="new_user_nationality_hint">Select Nationality</string>
+    <string name="new_user_generate_btn">Generate user</string>
+
+<!-- User list screen -->
+    <string name="user_list_title">User list</string>
+    <string name="user_list_empty_state">User list is empty</string>
+
+<!-- User Info screen -->
+    <string name="user_info_first_name_label">First name: %1$s</string>
+    <string name="user_info_last_name_label">Last name: %1$s</string>
+    <string name="user_info_gender_label">Gender: %1$s</string>
+    <string name="user_info_age_label">Age: %1$s</string>
+    <string name="user_info_date_of_birth_label">Date of birth: %1$s</string>
+    <string name="user_info_phone_label">Phone: %1$s</string>
+    <string name="user_info_cell_label">Cell: %1$s</string>
+    <string name="user_info_email_label">Email: %1$s</string>
+    <string name="user_info_street_label">Street: %1$s</string>
+    <string name="user_info_city_label">City: %1$s</string>
+    <string name="user_info_state_label">State: %1$s</string>
+    <string name="user_info_postcode_label">Postcode: %1$s</string>
+    <string name="user_info_timezone_label">Time zone: %1$s</string>
+</resources>
